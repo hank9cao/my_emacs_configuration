@@ -1,0 +1,128 @@
+ls
+cd ..
+ls
+cd han.cao/
+ls
+cd ../
+ls
+cd ..
+ls
+cd R/
+ls
+cd library\ -\ 20150709/
+cd 
+cd -
+p
+cd ..
+ls
+cd library/
+ls
+cd
+cd Documents/
+ls
+cd myR/
+ls
+Rscript a.R 
+Rscript a.R 
+cd /data/noether/GroupFolder/han.cao/
+ls
+cp * ~/Documents/myR/
+cd -
+ls
+Rscript test.R 
+Rscript test.R 
+Rscript test.R 
+Rscript test.R 
+cd /data/noether/GroupFolder/
+ls
+cd han.cao/
+ls
+cp snpMatrix_GW.rda ~/Documents/myR/
+cd ~/Documents/myR/
+ls
+ls
+ls()
+Rscript test.R 
+Rscript test.R 
+Rscript test.R 
+Rscript a.R 
+cd /data/noether/GroupFolder/han.cao/
+ls
+cp /data/noether/GroupFolder/junfang/dataProcess-nobackup/2_1_MGSnonGAIN/1.3-dataAcq-map2GAIN/snpMatrix_reEncoded/snpMatrix_GW.rda ./patients.rda
+ls
+ls
+ls
+cp patients.rda ~/Documents/myR/
+cd /data/noether/GroupFolder/junfang/dataProcess-nobackup/2_1_MGSnonGAIN/0-matchingSample/
+ls
+cp sampleID_output.rda ~/Documents/myR/
+cd -
+ls
+ls
+ls
+cd ~/Documents/myR/
+ls
+rm snpMatrix_GW.rda 
+ls
+mv patients.rda snpMatrix_GW.rda
+~/
+~/
+cd -
+cd ~/Documents/myR/
+ls
+mkdir test
+ls
+cp *.R *.rda tes
+cp *.R *.rda test
+cd test/
+ls
+R
+r
+R
+cd ess
+ls
+cd debian/
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd /data/noether/GroupFolder/junfang/
+ls
+cd dataProcess-nobackup/
+ls
+cd 1_1_MooDS/
+ls
+cd fMRI/
+ls
+cd ../
+cd ../
+ls
+cd ../
+ls
+cd l
+cd Link\ to\ dataProcess-nobackup/
+ls
+cd 1_1_MooDS/
+ls
+cd ..
+;s
+cd 2_1_MGSnonGAIN/
+ls
+cd ../..
+ls
+cd //
+cd -
+ls
+cd ..
+ls
+cd junfang/
+ls
+find .bim
+find *.bim
+find -r *.bim
+find
+find | grep bim
+cp ../a.R ./
+ifconfig
